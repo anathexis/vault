@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily Note template.md",
+                "file": "Timestamps/2023/01-January/2023-01-08-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily Note template.md",
+                "file": "Timestamps/2023/01-January/2023-01-08-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily Note template.md",
+                "file": "Timestamps/2023/01-January/2023-01-08-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily Note template.md"
+                "file": "Timestamps/2023/01-January/2023-01-08-Sunday.md"
               }
             }
           },
@@ -176,8 +176,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c397d333f2c4d1d",
+  "active": "882e3f0e5291d785",
   "lastOpenFiles": [
+    "Timestamps/2023/01-January/2023-01-08-Sunday.md",
+    "templates/Daily Note template.md",
     "blog/draft/2023-01-08-Start.md",
     "Timestamps/2023-01-08.md",
     "Untitled.md"
