@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be9c3bd9b2843f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/draft/2023-01-08-Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-01-08.md",
+                "file": "blog/draft/2023-01-08-Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-01-08.md",
+                "file": "blog/draft/2023-01-08-Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-01-08.md"
+                "file": "blog/draft/2023-01-08-Start.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c397d333f2c4d1d",
+  "active": "be9c3bd9b2843f07",
   "lastOpenFiles": [
+    "daily/2023-01-08.md",
     "Untitled.md"
   ]
 }
